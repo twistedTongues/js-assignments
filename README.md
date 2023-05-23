@@ -1,3 +1,5 @@
+# My lab 3 solution is [here](https://www.github.com/twistedTongues/js-assignments)
+
 [![Brest Rolling Scopes](http://brest.rollingscopes.com/images/logo_rs_text.svg)](http://brest.rollingscopes.com/)
 #Brest Rolling Scopes School
 
